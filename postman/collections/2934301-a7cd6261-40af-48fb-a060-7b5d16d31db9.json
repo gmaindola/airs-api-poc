@@ -542,7 +542,7 @@
 					}
 				],
 				"url": {
-					"raw": "{{baseURL}}/v1/scan/results?scan_ids=Re2a09f19-6ef8-4ee3-8948-8168c8c1080",
+					"raw": "{{baseURL}}/v1/scan/results?scan_ids=R495adbd3-f28b-4ea1-b7ad-a0812c3df6e8",
 					"host": [
 						"{{baseURL}}"
 					],
@@ -554,7 +554,7 @@
 					"query": [
 						{
 							"key": "scan_ids",
-							"value": "Re2a09f19-6ef8-4ee3-8948-8168c8c1080"
+							"value": "R495adbd3-f28b-4ea1-b7ad-a0812c3df6e8"
 						}
 					]
 				}
