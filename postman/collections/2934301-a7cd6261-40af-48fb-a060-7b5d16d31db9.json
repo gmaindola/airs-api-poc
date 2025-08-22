@@ -148,7 +148,7 @@
 			"response": []
 		},
 		{
-			"name": "API-Prompt-System-Prompt-2 Copy",
+			"name": "API-Prompt-SCB_test",
 			"id": "2934301-45db0973-cc7c-4a67-ac93-b4aceb50a97c",
 			"protocolProfileBehavior": {
 				"disableBodyPruning": true
