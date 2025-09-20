@@ -562,6 +562,44 @@
 			"response": []
 		},
 		{
+			"name": "API-Scan-Result Copy",
+			"id": "2934301-e2aa62cc-d5f1-497c-b4d5-38c0d53816a7",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-pan-token",
+						"value": "{{x-pan-token}}",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "{{baseURL}}/v1/scan/results?scan_ids=R495adbd3-f28b-4ea1-b7ad-a0812c3df6e8",
+					"host": [
+						"{{baseURL}}"
+					],
+					"path": [
+						"v1",
+						"scan",
+						"results"
+					],
+					"query": [
+						{
+							"key": "scan_ids",
+							"value": "R495adbd3-f28b-4ea1-b7ad-a0812c3df6e8"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
 			"name": "API-Prompt-User_IP_Correlation",
 			"id": "2934301-643da661-12c3-466d-8aac-3c0909ec775e",
 			"protocolProfileBehavior": {
