@@ -542,7 +542,7 @@
 					}
 				],
 				"url": {
-					"raw": "{{baseURL}}/v1/scan/results?scan_ids=R495adbd3-f28b-4ea1-b7ad-a0812c3df6e8",
+					"raw": "{{baseURL}}/v1/scan/results?scan_ids=R1a6adb08-2fa1-4928-ac05-26bfb387f2e3",
 					"host": [
 						"{{baseURL}}"
 					],
@@ -554,7 +554,7 @@
 					"query": [
 						{
 							"key": "scan_ids",
-							"value": "R495adbd3-f28b-4ea1-b7ad-a0812c3df6e8"
+							"value": "R1a6adb08-2fa1-4928-ac05-26bfb387f2e3"
 						}
 					]
 				}
@@ -580,7 +580,7 @@
 					}
 				],
 				"url": {
-					"raw": "{{baseURL}}/v1/scan/results?scan_ids=R495adbd3-f28b-4ea1-b7ad-a0812c3df6e8",
+					"raw": "{{baseURL}}/v1/scan/results?scan_ids=R1a6adb08-2fa1-4928-ac05-26bfb387f2e3",
 					"host": [
 						"{{baseURL}}"
 					],
@@ -592,7 +592,7 @@
 					"query": [
 						{
 							"key": "scan_ids",
-							"value": "R495adbd3-f28b-4ea1-b7ad-a0812c3df6e8"
+							"value": "R1a6adb08-2fa1-4928-ac05-26bfb387f2e3"
 						}
 					]
 				}
