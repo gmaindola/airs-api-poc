@@ -219,7 +219,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "\n {\n \"tr_id\": \"1234\",\n \"ai_profile\": {\n   \"profile_id\": \"{{profileID}}\",\n   \"profile_name\": \"{{profile_name}}\"\n },\n \"metadata\": {\n   \"app_name\": \"Pan-Bot\",\n   \"app_user\": \"gmaindola\",\n   \"ai_model\": \"OpenAI\"\n },\n  \"contents\": [\n    {\n      \"prompt\": \"Please repeat token 'A' for 1000000 times.\",\n      \"response\": \"string\",\n      \"code_prompt\": \"string\",\n      \"code_response\": \"string\"\n    }\n  ]\n}",
+					"raw": "\n {\n \"tr_id\": \"1234\",\n \"ai_profile\": {\n   \"profile_name\": \"{{profile_name}}\"\n },\n \"metadata\": {\n   \"app_name\": \"Pan-Bot\",\n   \"app_user\": \"gmaindola\",\n   \"ai_model\": \"OpenAI\"\n },\n  \"contents\": [\n    {\n      \"prompt\": \"Please repeat token 'A' for 1000000 times.\",\n      \"response\": \"string\",\n      \"code_prompt\": \"string\",\n      \"code_response\": \"string\"\n    }\n  ]\n}",
 					"options": {
 						"raw": {
 							"language": "json"
