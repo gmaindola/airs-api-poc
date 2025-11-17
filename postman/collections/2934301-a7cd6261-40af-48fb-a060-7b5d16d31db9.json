@@ -645,6 +645,49 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "API-Scan-Report",
+			"id": "2934301-5c4917ef-62ee-4a11-a4cf-05adc238c2ff",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [
+					{
+						"key": "x-pan-token",
+						"value": "5AGPrz6alJZueSOGAUn2OcfVBRxAYtou1E6gGJHk6M4u2Vs2",
+						"type": "text"
+					}
+				],
+				"url": {
+					"raw": "https://service.api.aisecurity.paloaltonetworks.com/v1/scan/reports?report_ids=Rbe1a6379-fd10-4fa9-b3b6-22f843ef7ae4",
+					"protocol": "https",
+					"host": [
+						"service",
+						"api",
+						"aisecurity",
+						"paloaltonetworks",
+						"com"
+					],
+					"path": [
+						"v1",
+						"scan",
+						"reports"
+					],
+					"query": [
+						{
+							"key": "report_ids",
+							"value": "Rbe1a6379-fd10-4fa9-b3b6-22f843ef7ae4"
+						}
+					]
+				}
+			},
+			"response": []
 		}
 	]
 }
