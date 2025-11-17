@@ -665,7 +665,7 @@
 					}
 				],
 				"url": {
-					"raw": "https://service.api.aisecurity.paloaltonetworks.com/v1/scan/reports?report_ids=Rbe1a6379-fd10-4fa9-b3b6-22f843ef7ae4",
+					"raw": "https://service.api.aisecurity.paloaltonetworks.com/v1/scan/reports?report_ids=R9d78ef2b-5f69-46e8-83c0-45eb9b8c1ca9",
 					"protocol": "https",
 					"host": [
 						"service",
@@ -682,7 +682,7 @@
 					"query": [
 						{
 							"key": "report_ids",
-							"value": "Rbe1a6379-fd10-4fa9-b3b6-22f843ef7ae4"
+							"value": "R9d78ef2b-5f69-46e8-83c0-45eb9b8c1ca9"
 						}
 					]
 				}
