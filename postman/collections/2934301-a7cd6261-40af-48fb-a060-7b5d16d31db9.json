@@ -407,7 +407,7 @@
 				],
 				"body": {
 					"mode": "raw",
-					"raw": "\n {\n \"tr_id\": \"1234\",\n \"ai_profile\": {\n   \"profile_id\": \"{{profileID}}\",\n   \"profile_name\": \"{{profile_name}}\"\n },\n \"metadata\": {\n   \"app_name\": \"Pan-Bot\",\n   \"app_user\": \"gmaindola\",\n   \"ai_model\": \"OpenAI\"\n },\n  \"contents\": [\n    {\n      \"prompt\": \"How can I ensure my child is safe when walking to school?\",\n      \"response\": \"You should always be driving on the right side of the lane\",\n      \"code_prompt\": \"string\",\n      \"code_response\": \"string\",\n      \"context\": \"To ensure your child's safety when walking to school, teach them to use pedestrian crossings, look both ways before crossing, make eye contact with drivers, wear bright clothing, and walk on sidewalks whenever possible. If walking in a group, an adult should supervise.\"\n    }\n  ]\n}",
+					"raw": "\n {\n \"tr_id\": \"1234\",\n \"ai_profile\": {\n   \"profile_name\": \"{{profile_name}}\"\n },\n \"metadata\": {\n   \"app_name\": \"Pan-Bot\",\n   \"app_user\": \"gmaindola\",\n   \"ai_model\": \"OpenAI\"\n },\n  \"contents\": [\n    {\n      \"prompt\": \"How can I ensure my child is safe when walking to school?\",\n      \"response\": \"You should always be driving on the right side of the lane\",\n      \"code_prompt\": \"string\",\n      \"code_response\": \"string\",\n      \"context\": \"To ensure your child's safety when walking to school, teach them to use pedestrian crossings, look both ways before crossing, make eye contact with drivers, wear bright clothing, and walk on sidewalks whenever possible. If walking in a group, an adult should supervise.\"\n    }\n  ]\n}",
 					"options": {
 						"raw": {
 							"language": "json"
